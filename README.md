@@ -1,13 +1,10 @@
 <h1> Hello World! </h1>
 <h2> My name is Veronica Vaccaro </h2>
 <div align="center">
-  <a href="https://github.com/veronicavaccaro" style="display: inline-block; margin: 10px;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronicavaccaro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/veronicavaccaro" style="display: inline-block; margin: 10px;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicavaccaro&layout=compact&langs_count=7&theme=material-palenight"/>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronicavaccaro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" style="display: inline-block; margin: 10px;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicavaccaro&layout=compact&langs_count=7&theme=material-palenight" style="display: inline-block; margin: 10px;">
 </div>
+
 
 
 <h2> Skills </h2>
