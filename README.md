@@ -2,8 +2,8 @@
 <h2> My name is Veronica Vaccaro </h2>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/veronicavaccaro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=veronicavaccaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicavaccaro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=veronicavaccaro&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicavaccaro&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
 <h2> Skills </h2>
